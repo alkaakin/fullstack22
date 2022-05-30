@@ -1,0 +1,8 @@
+selain -> palvelin: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+palvelin -> selain: javascript application
+
+note over selain:
+selain pyytää JSON-datan suoraan  palvelimelta 
+end note
+
+
